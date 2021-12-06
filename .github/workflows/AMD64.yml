@@ -3,9 +3,9 @@ name: Generic AMD64
 
 on:
   push:
-    branches: [ main ]
+    branches: [ master ]
   pull_request:
-    branches: [ main ]
+    branches: [ master ]
     
 jobs:
   Build-Generic-AMD64-Container:
