@@ -1,5 +1,5 @@
 # balena-samba
-[![Generic AARCH64](https://github.com/Fraunhofer-IPA-OE420/balena-samba/actions/workflows/AARCH64.yml/badge.svg)](https://github.com/Fraunhofer-IPA-OE420/balena-samba/actions/workflows/AARCH64.yml)
+[![Generic AARCH64](https://github.com/Fraunhofer-IPA-OE420/balena-samba/actions/workflows/AARCH64.yml/badge.svg)](https://github.com/Fraunhofer-IPA-OE420/balena-samba/actions/workflows/AARCH64.yml) [![Generic AMD64](https://github.com/Fraunhofer-IPA-OE420/balena-samba/actions/workflows/AMD64.yml/badge.svg)](https://github.com/Fraunhofer-IPA-OE420/balena-samba/actions/workflows/AMD64.yml)
 
 
 ## Highlights
