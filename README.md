@@ -1,4 +1,6 @@
 # balena-samba
+[![Generic AARCH64](https://github.com/Fraunhofer-IPA-OE420/balena-samba/actions/workflows/AARCH64.yml/badge.svg)](https://github.com/Fraunhofer-IPA-OE420/balena-samba/actions/workflows/AARCH64.yml)
+
 
 ## Highlights
 - Plug in your USB drives to share them over the network using Samba.
