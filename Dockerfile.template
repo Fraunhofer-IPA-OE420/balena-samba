@@ -1,6 +1,6 @@
 ARG AARCH_BALENA_IMAGE=%%BALENA_MACHINE_NAME%%
 
-FROM balenalib/${AARCH_BALENA_IMAGE}-ubuntu:focal-run
+FROM balenalib/${AARCH_BALENA_IMAGE}-ubuntu
 
 RUN install_packages exfat-fuse \
     exfat-utils \
